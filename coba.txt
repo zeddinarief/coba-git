@@ -1,2 +1,2 @@
 ini merupakan sebuah file coba git
-ini tambahan dari coba
+ganti tambahan
