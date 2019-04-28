@@ -1,3 +1,3 @@
 ini adalah rencana file tambahan
 tambah data lagi
-ini edit tambahan
+ini tambah data dari cbang 2
