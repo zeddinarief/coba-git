@@ -1,3 +1,5 @@
 ini adalah rencana file tambahan
 tambah data lagi
-ini tambah data dari cbang 2
+ini edit tambahan
+ini tambah data dari cabang1
+tambah data lagi dri cabang1
